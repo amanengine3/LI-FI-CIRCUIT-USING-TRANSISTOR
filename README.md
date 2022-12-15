@@ -39,7 +39,7 @@ In this project we used various electronic components in order to make the circu
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/60310409/207787867-63282e27-6b89-454c-a7ab-03ee8c284336.png">
 
 ## COMMENTS AND CONCLUSION
-**Is Li-Fi better than Radio Communication?**
+***Is Li-Fi better than Radio Communication?***
 
 The Limitations/disadvantage of Radio communication are:
 + Radio Waves have Limited Bandwidth.
@@ -48,6 +48,7 @@ The Limitations/disadvantage of Radio communication are:
 + Health Hazards.
 Let’s explore each of them.
 1) Radio waves have limited bandwidth:
+<sub>
 Radio frequencies range from 3 KHz to 300 GHz. The radio frequencies are
 classified into many categories like Low frequency, Medium Frequency, High
 frequency, Ultra High Frequency, Extremely High frequency etc. Each of them
@@ -66,7 +67,7 @@ to the interference of many Wi-Fi signals from we and our neighbour’s router,
 the data transmission gets slower than our wired connection.Due to this
 congestion router manufacturers are introducing 5 GHz band to avoid such
 Wi-Fi congestions, but with 5 GHz we will get shorter range, yet this is not a
-full solution for our future needs.
+full solution for our future needs.</sub>
 2) Restriction of Radio waves:
 Radio waves are restricted in many areas such as hospitals, operation
 theatres, airplanes, research facilities etc. We cannot always enjoy Wi-Fi
