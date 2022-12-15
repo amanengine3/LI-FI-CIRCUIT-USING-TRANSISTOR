@@ -12,15 +12,14 @@ Li-Fi stands for Light Fidelity, which uses visible light as medium for data tra
 The whole idea of our project is that we are preparing a Li-Fi which sends data by amplitude modulation of the light source in a well-defined and standardized way.The millivolts peaks from solar cell must be amplified adequately using a USB computer speaker or any other good sensitive amplifier so that it can drive a speaker. To keep the circuit simple as possible (to avoid multistage) of the transmitter, we have connected three low power transistor in parallel so that it can drive 1 watt LED with adequate current.The 4.7K and 1 K resistors provide necessary DC biasing for the three transistors which will put the transistors in active mode where the transistors act as amplifiers. (If we over bias the circuit with lower resistor values, it will put the transistor in saturation mode where the transistor fully ON and does not respond to the input. If we under bias the transistors it will go to cut-off mode where output current will be too low to drive the LED ON.)We can spot the 4.7K resistor is connected in series with 100k variable resistor, this is to adjust the quiescent current of the amplifier (transmitter) thus adjusting the brightness of the LED.(Quiescent current: Quiescent current is the current consumed when the circuit performing does not work.)The quiescent current in the circuit is the reason why the LED stays ON regardless of the audio input. We have used the quiescent current to our advantage to glow the LED.
 # Requirements
 In this project we used various electronic components in order to make the circuit. The circuit was set up on a circuit board and hence tested. We used the following components:
-
-● 3 x BC337 NPN Transistor
-● 1 x 4.7K resistor
-● 1 x 1K resistor
-● 3 x 1000uF/25V electrolytic capacitor
-● 1 x 1 Watt LED
-● 1 x 100K Variable Resistor
-● 1 x switch
-● 1 x 3V to 6V Solar cell
-● 1 speaker
-● 1 audio jack
-● 1 Circuit board
+  ● 3 x BC337 NPN Transistor
+  ● 1 x 4.7K resistor
+  ● 1 x 1K resistor
+  ● 3 x 1000uF/25V electrolytic capacitor
+  ● 1 x 1 Watt LED
+  ● 1 x 100K Variable Resistor
+  ● 1 x switch
+  ● 1 x 3V to 6V Solar cell
+  ● 1 speaker
+  ● 1 audio jack
+  ● 1 Circuit board
