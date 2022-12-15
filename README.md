@@ -47,8 +47,7 @@ The Limitations/disadvantage of Radio communication are:
 + Security.
 + Health Hazards.
 Let’s explore each of them.
-1) Radio waves have limited bandwidth:
-<sub>
+1) *Radio waves have limited bandwidth:*
 Radio frequencies range from 3 KHz to 300 GHz. The radio frequencies are
 classified into many categories like Low frequency, Medium Frequency, High
 frequency, Ultra High Frequency, Extremely High frequency etc. Each of them
@@ -67,7 +66,7 @@ to the interference of many Wi-Fi signals from we and our neighbour’s router,
 the data transmission gets slower than our wired connection.Due to this
 congestion router manufacturers are introducing 5 GHz band to avoid such
 Wi-Fi congestions, but with 5 GHz we will get shorter range, yet this is not a
-full solution for our future needs.</sub>
+full solution for our future needs.
 2) Restriction of Radio waves:
 Radio waves are restricted in many areas such as hospitals, operation
 theatres, airplanes, research facilities etc. We cannot always enjoy Wi-Fi
