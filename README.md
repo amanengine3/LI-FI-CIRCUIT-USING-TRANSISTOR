@@ -47,7 +47,7 @@ The Limitations/disadvantage of Radio communication are:
 + Security.
 + Health Hazards.
 Let’s explore each of them.
-1) Radio waves have limited bandwidth:
+1) ***Radio waves have limited bandwidth:***
 *Radio frequencies range from 3 KHz to 300 GHz. The radio frequencies are
 classified into many categories like Low frequency, Medium Frequency, High
 frequency, Ultra High Frequency, Extremely High frequency etc. Each of them
@@ -66,57 +66,59 @@ to the interference of many Wi-Fi signals from we and our neighbour’s router,
 the data transmission gets slower than our wired connection.Due to this
 congestion router manufacturers are introducing 5 GHz band to avoid such
 Wi-Fi congestions, but with 5 GHz we will get shorter range, yet this is not a
-full solution for our future needs.*
-2) Restriction of Radio waves:
-Radio waves are restricted in many areas such as hospitals, operation
+full solution for our future needs.
+2) ***Restriction of Radio waves:***
+*Radio waves are restricted in many areas such as hospitals, operation
 theatres, airplanes, research facilities etc. We cannot always enjoy Wi-Fi
 internet in a hospital or in an airplane or in a place where the radio
 communications are restricted, because there could be interference with
 sensitive hospital equipment, which treats a valuable patient’s life or very
 expensive experiment and interference of radio waves could alter the results.
-So not everywhere radio communications are permitted.
-3) Security:
-Guess what the worst thing can occur to our wireless internet, is it a
+So not everywhere radio communications are permitted.*
+3) ***Security:***
+*Guess what the worst thing can occur to our wireless internet, is it a
 disconnection of our internet? No, it is our network getting hacked by
 someone else! Wi-Fi can penetrate through walls and surround our area, We
 may say that my Wi-Fi is secured with a password but, a skilled black hat can
 break into our network without any notice, and many of We are not good at
-setting a strong password for our router.
-4) Health Hazard:
-High energetic radio waves are suspected to cause health issues; there are
+setting a strong password for our router.*
+4) ***Health Hazard:***
+*High energetic radio waves are suspected to cause health issues; there are
 some people who complained that they are affected from high energetic radio
 waves. But there is no documented evidence to support the statement that
 radio waves cause cancer. Maybe science has yet to discover the health
-hazards on humans and animals and even plants.
+hazards on humans and animals and even plants.*
+
 Now, let’s see how Li-Fi can overcome these limitations:
-1) No Bandwidth Limitations and Interference:
-The Li-Fi has bandwidth at least 1000 times greater than the radio waves, this
+
+1) ***No Bandwidth Limitations and Interference:***
+*The Li-Fi has bandwidth at least 1000 times greater than the radio waves, this
 can handle the future internet needs with ease. No interference with the
 neighbour's internet connection as our internet will not go beyond our room
 and neither other’s internet will enter our room. Very high data transfer speed
 compared to Wi-Fi, researcher calculated theoretical maximum data transfer
 speed of 224 Gb/s isn’t that mind blowing?
-So, now We have very high speed data connection without any interference.
-2) We can access Internet anywhere:
-Radio communications are restricted in some areas, guess what is not
+So, now We have very high speed data connection without any interference.*
+2) ***We can access Internet anywhere:***
+*Radio communications are restricted in some areas, guess what is not
 restricted? Visible light! Now we can restore access to the internet in airplanes
 or in hospitals or in research facilities without worrying about radio
-transmission interference.
-3) Security is enhanced:
-Now the internet will not go beyond our room as the light from our room will
+transmission interference.*
+3) ***Security is enhanced:***
+*Now the internet will not go beyond our room as the light from our room will
 not leak like Wi-Fi and black hats will have tougher time to hack our
 network.To access the network the black hat must be physically present in our
 room and we know what to do next if such an unknown person is present in
-our room.
-4) Reduced Health Hazards:
-We are using visible light since the discovery of fire; visible light spectrum has
+our room.*
+4) ***Reduced Health Hazards:***
+*We are using visible light since the discovery of fire; visible light spectrum has
 little to no health hazard. LEDs don’t contain any mercury or other toxic
 chemicals present in like CFLs, which also emits a small amount of ultraviolet
 rays, and yet CFLs don’t cause health hazards, so we can say that LEDs are
-one of the safest light sources available.
-In conclusion we can say that Li-Fi is superior to traditional radio based
+one of the safest light sources available.*
+**In conclusion we can say that Li-Fi is superior to traditional radio based
 communication, but Li-Fi may not be without its limitations or disadvantages
-which may be yet to discover.
+which may be yet to discover.**
 
 
 
