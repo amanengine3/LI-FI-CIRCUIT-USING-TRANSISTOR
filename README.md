@@ -39,7 +39,8 @@ In this project we used various electronic components in order to make the circu
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/60310409/207787867-63282e27-6b89-454c-a7ab-03ee8c284336.png">
 
 ## COMMENTS AND CONCLUSION
-Is Li-Fi better than Radio Communication?
+**Is Li-Fi better than Radio Communication?**
+
 The Limitations/disadvantage of Radio communication are:
 + Radio Waves have Limited Bandwidth.
 + Cannot be used in some restricted areas.
