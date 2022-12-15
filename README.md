@@ -34,7 +34,7 @@ In this project we used various electronic components in order to make the circu
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/60310409/207787795-e2358e4a-cc7e-44d0-8e70-a2d7d143c67d.png">
 
-### -Receiver Circuit
+### Receiver Circuit
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/60310409/207787867-63282e27-6b89-454c-a7ab-03ee8c284336.png">
 
