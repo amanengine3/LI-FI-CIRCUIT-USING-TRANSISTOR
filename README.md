@@ -23,4 +23,7 @@ In this project we used various electronic components in order to make the circu
   9. 1 speaker
   10. 1 audio jack
   11. 1 Circuit board
+# Circuit Diagram
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/60310409/207787240-4aab41c6-857e-4663-b5b4-2161f201c17d.png">
+
 
