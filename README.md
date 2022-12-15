@@ -25,8 +25,10 @@ In this project we used various electronic components in order to make the circu
   11. 1 Circuit board
 # Transmitter Circuit Diagram
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/60310409/207787240-4aab41c6-857e-4663-b5b4-2161f201c17d.png">
+
 # Receiver Diagram 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/60310409/207787615-738b2969-de9f-4854-bad1-859ab5ccd0be.png">
+
 # Results
 ## Main Circuit
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/60310409/207787795-e2358e4a-cc7e-44d0-8e70-a2d7d143c67d.png">
