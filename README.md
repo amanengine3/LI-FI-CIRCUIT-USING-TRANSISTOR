@@ -66,7 +66,7 @@ to the interference of many Wi-Fi signals from we and our neighbour’s router,
 the data transmission gets slower than our wired connection.Due to this
 congestion router manufacturers are introducing 5 GHz band to avoid such
 Wi-Fi congestions, but with 5 GHz we will get shorter range, yet this is not a
-full solution for our future needs.
+full solution for our future needs.*
 2) ***Restriction of Radio waves:***
 *Radio waves are restricted in many areas such as hospitals, operation
 theatres, airplanes, research facilities etc. We cannot always enjoy Wi-Fi
@@ -116,6 +116,7 @@ little to no health hazard. LEDs don’t contain any mercury or other toxic
 chemicals present in like CFLs, which also emits a small amount of ultraviolet
 rays, and yet CFLs don’t cause health hazards, so we can say that LEDs are
 one of the safest light sources available.*
+
 **In conclusion we can say that Li-Fi is superior to traditional radio based
 communication, but Li-Fi may not be without its limitations or disadvantages
 which may be yet to discover.**
